@@ -1,3 +1,29 @@
 .Drawn-Cards {
     margin-top: 5%;
 }
+.title {
+    color: azure;
+    font-size: 40px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-family: 'Slabo 27px', serif;
+} 
+.subtitle {
+    font-size: 25px;
+}
+button {
+    background: none;
+    outline: none;
+    font: inherit;
+    margin: .5em;
+    padding: 1em 2em;
+    color: whitesmoke;
+    border-radius: 1rem;
+    transition: .25s;
+}
+
+button:hover {
+    border-width: 3px;
+    font-weight: bold;
+    cursor: pointer;
+}

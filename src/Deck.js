@@ -56,7 +56,8 @@ class Deck extends Component {
     ));
     return (
       <div>
-        <h1>Shuffled Deck of Cards</h1>
+        <h1 className="title">♦️ Shuffled Deck of Cards ♦️</h1>
+        <h2 className="title subtitle">♦️ A React API Practice Activity ♦️</h2>
         <button onClick={this.getCard}>Draw Card!</button>
         <div className="Drawn-Cards">{cards}</div>
       </div>
