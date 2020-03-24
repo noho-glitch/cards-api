@@ -28,7 +28,7 @@ class Deck extends Component {
     if(draw.data.remaining === 0) {
         throw new Error("No Cards Remaining")
     }
-    }
+    
     //Capture Card information
     let card = draw.data.cards[0];
     // console.log(`Card: ${JSON.stringify(card)}`);  
@@ -44,6 +44,9 @@ class Deck extends Component {
         }
       ]
     }));
+} catch(Error) {
+    alert(Error)
+}
   }
   render() {
     return (
