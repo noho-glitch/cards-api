@@ -16,7 +16,7 @@ class Deck extends Component {
         this.setState({deck: deck.data})
     }
     async getCard() {
-        let id = "5sg2iuoxmx78"
+        let id = this.state.deck.deck_id;
         let CARD_URL = `${API_URL}/${id}/draw/`
         
         //make request to api for new card
