@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/card-api/static/css/main.ac2a942d.chunk.css",
+    "main.js": "/card-api/static/js/main.b83df616.chunk.js",
+    "main.js.map": "/card-api/static/js/main.b83df616.chunk.js.map",
+    "runtime-main.js": "/card-api/static/js/runtime-main.24fc396b.js",
+    "runtime-main.js.map": "/card-api/static/js/runtime-main.24fc396b.js.map",
+    "static/js/2.5ef1ff58.chunk.js": "/card-api/static/js/2.5ef1ff58.chunk.js",
+    "static/js/2.5ef1ff58.chunk.js.map": "/card-api/static/js/2.5ef1ff58.chunk.js.map",
+    "index.html": "/card-api/index.html",
+    "precache-manifest.f018b9e4f961c24fcf1545092f069364.js": "/card-api/precache-manifest.f018b9e4f961c24fcf1545092f069364.js",
+    "service-worker.js": "/card-api/service-worker.js",
+    "static/css/main.ac2a942d.chunk.css.map": "/card-api/static/css/main.ac2a942d.chunk.css.map",
+    "static/js/2.5ef1ff58.chunk.js.LICENSE.txt": "/card-api/static/js/2.5ef1ff58.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24fc396b.js",
+    "static/js/2.5ef1ff58.chunk.js",
+    "static/css/main.ac2a942d.chunk.css",
+    "static/js/main.b83df616.chunk.js"
+  ]
+}
