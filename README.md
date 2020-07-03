@@ -8,4 +8,4 @@ Built With React
 
 Deployed: [Draw A Card](https://noho-glitch.github.io/cards-api/)
 
-![card]("card")
+![card](https://github.com/noho-glitch/cards-api/blob/master/public/card.png?raw=true "card")
