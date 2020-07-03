@@ -2,9 +2,9 @@
 
 ## About
 
-Draw a card, practice react activity I completed
+Draw a card, simple as that.
 
-Built With React
+Practice react activity I completed
 
 Deployed: [Draw A Card](https://noho-glitch.github.io/cards-api/)
 
